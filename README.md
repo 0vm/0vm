@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm 0vm</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <h1 align="center">Main Languages</h1>
 <p align="center">
 </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/>
