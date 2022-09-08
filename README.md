@@ -15,8 +15,7 @@
 </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
 </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
 </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/>
-</a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-</a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+</a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
 </p>
 
 </div>&nbsp;<div>
@@ -51,6 +50,11 @@
 </div>&nbsp;<div>
 </div>&nbsp;<div>
 </div>&nbsp;<div>
+
+
+
+![when_i_see_a_roo_💀](https://user-images.githubusercontent.com/79897291/189136968-b6e11cdb-3a83-4693-9829-00b8e4ea7a1f.gif)
+me when i see a roo on the motorway
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=0vm&show_icons=true&locale=en&count_private=true&theme=radical" alt="0vm" /><p align="right"> <img src="https://komarev.com/ghpvc/?username=0vm&label=Views&color=7f0eb4&style=for-the-badge" alt="0vm" /> </p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0vm&langs_count=8&theme=radical)
