@@ -33,6 +33,11 @@ int main() {
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0vm&langs_count=8&theme=radical)
 
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=0vm&label=Views&color=7f0eb4&style=for-the-badge" alt="0vm" />
+</p>
+
+
 ## Add the cord
 
 - Discord: [@wsgr](https://discordapp.com/users/754143129824788499)
