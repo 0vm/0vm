@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm 0vm!
 
-![I'm Just Ken](https://github.com/0vm/0vm/assets/79897291/d6b24df4-267d-42ab-923a-3ead8ae99712)
+[![I'm Just Ken](https://github.com/0vm/0vm/assets/79897291/d6b24df4-267d-42ab-923a-3ead8ae99712)](https://www.youtube.com/watch?v=SAuoBE-zQVA)
 
 ## About Me
 
@@ -9,7 +9,8 @@ I'm literally Ryan Gosling.
 | C# | C++ | Python | PHP | SQL | GO |
 
 *I drive.* 🚗💨
-![Ryan Gosling Drive](https://media.tenor.com/oD-37469E8YAAAAC/ryan-gosling-drive.gif)
+
+[![Ryan Gosling Drive](https://media.tenor.com/oD-37469E8YAAAAC/ryan-gosling-drive.gif)](https://youtu.be/ruawVE5GwM8)
 
 ```cpp
 #include <iostream>
@@ -17,7 +18,11 @@ I'm literally Ryan Gosling.
 int main() {
     const std::string Name = "AK";
     const std::string currentFocus = "DDoS Mitigation and Detection";
+    const std::string hehe = "AK's Cupcake Factory";
 
+    std::cout << "*************************************************************" << std::endl;
+    std::cout << "******************** " << hehe << " *******************" << std::endl;
+    std::cout << "*************************************************************" << std::endl;
     std::cout << "🎉 Welcome to my uh repo place!" << std::endl;
     std::cout << "🔥 I'm " << Name << ", a very good yesyes developer." << std::endl;
     std::cout << "🔍 Currently focusing on " << currentFocus << "."<< std::endl;
@@ -26,6 +31,10 @@ int main() {
     return 0;
 }
 ```
+
+<a href="https://www.programiz.com/cpp-programming/online-compiler/">
+  <img src="https://media.discordapp.net/attachments/909084785153048627/1134095728097108020/image.png" alt="A Cupcake from my factory" style="width: 100%; height: 120px;">
+</a>
 
 ## GitHub Stats
 
@@ -44,7 +53,11 @@ int main() {
 
 ## I showed you my repo, lemmie see yours 🙌
 
-![I showed you my rocket, please respond](https://img.ifunny.co/images/2913f36251fd7f9c15526f37eb92d80e4b087c2f53daf78df658623de77e3cd6_1.jpg)
+<a href="https://youtu.be/XBqphGvMfbw">
+  <img src="https://i.redd.it/2kv0ofqebzd51.jpg" alt="bro balling fr ong, hello future employers!" style="width: 100%;">
+</a>
 
 
-I speak fluent english, but sometimes my brain no brain
+all the images link to something, check them out!
+
+I'm a native english speaker, but sometimes my brain no brain
