@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm 0vm!
 
-[![Im actually ken not 0vm](https://cdn.discordapp.com/attachments/1131513718363127919/1134424542027206656/ezgif.com-optimize.gif)](https://youtu.be/8V8W3GOA_yI)
+[![Im actually ken not 0vm](https://cdn.discordapp.com/attachments/1131513718363127919/1134424542027206656/ezgif.com-optimize.gif)](https://youtu.be/ruawVE5GwM8)
 
 ## About Me
 
@@ -10,7 +10,7 @@ I'm literally Ryan Gosling.
 
 *I drive.* 🚗💨
 
-[![Ryan Gosling Drive](https://media.tenor.com/oD-37469E8YAAAAC/ryan-gosling-drive.gif)](https://youtu.be/ruawVE5GwM8)
+[![Ryan Gosling Drive](https://media.tenor.com/oD-37469E8YAAAAC/ryan-gosling-drive.gif)](https://youtu.be/PJEJHU7wYxs)
 
 ```cpp
 #include <iostream>
