@@ -1,3 +1,9 @@
+
+<a href="https://www.youtube.com/watch?v=k-3Cppde1pU&ab_channel=Hanato">
+  <img src="https://media.discordapp.net/attachments/1131451161837326487/1134471176270389278/IMG_9825.png" alt="A Cupcake from my factory" style="width: 100%;">
+</a>
+
+
 # 👋 Hey there! I'm 0vm!
 
 [![Im actually ken not 0vm](https://cdn.discordapp.com/attachments/1131513718363127919/1134424542027206656/ezgif.com-optimize.gif)](https://youtu.be/ruawVE5GwM8)
