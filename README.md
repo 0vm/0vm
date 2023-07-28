@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm 0vm!
 
-[![I'm Just Ken](https://github.com/0vm/0vm/assets/79897291/d6b24df4-267d-42ab-923a-3ead8ae99712)](https://youtu.be/Y1IgAEejvqM)
+[![Im actually ken not 0vm](https://github.com/0vm/0vm/assets/79897291/d6b24df4-267d-42ab-923a-3ead8ae99712)](https://youtu.be/Y1IgAEejvqM)
 
 ## About Me
 
