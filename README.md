@@ -1,6 +1,7 @@
 # 👋 Hey there! I'm 0vm!
 
 [![Im actually ken not 0vm](https://cdn.discordapp.com/attachments/1131513718363127919/1134424542027206656/ezgif.com-optimize.gif)](https://youtu.be/ruawVE5GwM8)
+[![Im actually ken not 0vm](https://64.media.tumblr.com/01fb98bd843b81ce68c7f5d357e1d6c6/tumblr_n83qrsQ2iC1rhhdfvo1_250.gif)](https://youtu.be/B66y995acNs)
 
 ## About Me
 
@@ -11,6 +12,7 @@ I'm literally Ryan Gosling.
 *I drive.* 🚗💨
 
 [![Ryan Gosling Drive](https://media.tenor.com/oD-37469E8YAAAAC/ryan-gosling-drive.gif)](https://youtu.be/PJEJHU7wYxs)
+[![Im actually ken not 0vm](https://64.media.tumblr.com/01fb98bd843b81ce68c7f5d357e1d6c6/tumblr_n83qrsQ2iC1rhhdfvo1_250.gif)](https://youtu.be/B66y995acNs)
 
 ```cpp
 #include <iostream>
@@ -39,8 +41,10 @@ int main() {
 ## GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0vm&show_icons=true&locale=en&count_private=true&theme=radical)](https://youtu.be/akvv8IDDYuA)
+[![Im actually ken not 0vm](https://64.media.tumblr.com/01fb98bd843b81ce68c7f5d357e1d6c6/tumblr_n83qrsQ2iC1rhhdfvo1_250.gif)](https://youtu.be/B66y995acNs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0vm&langs_count=8&theme=radical&layout=pie)](https://youtu.be/rlVUng3uP8E)
+[![Im actually ken not 0vm](https://64.media.tumblr.com/01fb98bd843b81ce68c7f5d357e1d6c6/tumblr_n83qrsQ2iC1rhhdfvo1_250.gif)](https://youtu.be/B66y995acNs)
 
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=0vm&label=Views&color=7f0eb4&style=for-the-badge" alt="0vm" />
@@ -49,6 +53,8 @@ int main() {
 
 ## Add the cord
 [![Discord Presence](https://lanyard.cnrad.dev/api/754143129824788499)](https://discord.com/users/754143129824788499)
+[![Im actually ken not 0vm](https://64.media.tumblr.com/01fb98bd843b81ce68c7f5d357e1d6c6/tumblr_n83qrsQ2iC1rhhdfvo1_250.gif)](https://youtu.be/B66y995acNs)
+
 - Discord: [@wsgr](https://discordapp.com/users/754143129824788499)
 
 ## I showed you my repo, lemmie see yours 🙌
