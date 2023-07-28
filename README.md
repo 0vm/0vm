@@ -49,7 +49,7 @@ int main() {
 
 ## Add the cord
 [![Discord Presence](https://lanyard.cnrad.dev/api/754143129824788499)](https://discord.com/users/754143129824788499)
-- Discord: [@wsgr](discord://discordapp.com/users/754143129824788499)
+- Discord: [@wsgr](https://discordapp.com/users/754143129824788499)
 
 ## I showed you my repo, lemmie see yours 🙌
 
