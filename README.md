@@ -1,6 +1,6 @@
 
 <a href="https://www.youtube.com/watch?v=k-3Cppde1pU&ab_channel=Hanato">
-  <img src="https://media.discordapp.net/attachments/1131451161837326487/1134471176270389278/IMG_9825.png" alt="A Cupcake from my factory" style="width: 100%;">
+  <img src="https://media.discordapp.net/attachments/1131451161837326487/1134471176270389278/IMG_9825.png" alt="a man has fallen in lego city" style="width: 100%;">
 </a>
 
 
@@ -52,9 +52,9 @@ int main() {
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0vm&langs_count=8&theme=radical&layout=pie)](https://youtu.be/rlVUng3uP8E)
 [![Im actually ken not 0vm](https://64.media.tumblr.com/01fb98bd843b81ce68c7f5d357e1d6c6/tumblr_n83qrsQ2iC1rhhdfvo1_250.gif)](https://youtu.be/B66y995acNs)
 
-<p align="center"> 
+<a href="https://www.youtube.com/watch?v=ZxZ1I1yTCUI&ab_channel=Joshwin"> 
 <img src="https://komarev.com/ghpvc/?username=0vm&label=Views&color=7f0eb4&style=for-the-badge" alt="0vm" />
-</p>
+</a>
 
 
 ## Add the cord
@@ -74,4 +74,4 @@ all the images link to something, check them out!
 
 I'm a native english speaker, but sometimes my brain no brain
 
-hopefully you got a laugh out of my stupid readme, if not well, there go all my job opportunities
+hopefully you got a laugh out of my readme, if not well, there go all my job opportunities
