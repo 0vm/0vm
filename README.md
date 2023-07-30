@@ -13,7 +13,7 @@
 
 I'm literally Ryan Gosling.
 
-| C# | C++ | Python | PHP | SQL | GO |
+| C# | C++ | Python | PHP | SQL | GOLang |
 
 *I drive.* 🚗💨
 
