@@ -52,8 +52,12 @@ int main() {
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0vm&langs_count=8&theme=radical&layout=pie)](https://youtu.be/rlVUng3uP8E)
 [![Im actually ken not 0vm](https://64.media.tumblr.com/01fb98bd843b81ce68c7f5d357e1d6c6/tumblr_n83qrsQ2iC1rhhdfvo1_250.gif)](https://youtu.be/B66y995acNs)
 
+
+
+Views
+
 <a href="https://www.youtube.com/watch?v=ZxZ1I1yTCUI&ab_channel=Joshwin"> 
-<img src="https://komarev.com/ghpvc/?username=0vm&label=Views&color=7f0eb4&style=for-the-badge" alt="0vm" />
+<img src="https://profile-counter.glitch.me/0vm/count.svg" alt="0vm" />
 </a>
 
 
