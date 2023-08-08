@@ -90,4 +90,4 @@ I'm a native english speaker, but sometimes my brain no brain
 
 hopefully you got a laugh out of my readme, if not well, there go all my job opportunities
 
-## Check out my contribution graph.
+## Check out my contribution graph in 1970.
