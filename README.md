@@ -66,7 +66,7 @@ Views
 [![Discord Presence](https://lanyard.cnrad.dev/api/754143129824788499)](https://discord.com/users/754143129824788499)
 [![Im actually ken not 0vm](https://64.media.tumblr.com/01fb98bd843b81ce68c7f5d357e1d6c6/tumblr_n83qrsQ2iC1rhhdfvo1_250.gif)](https://youtu.be/B66y995acNs)
 
-- Discord: [@wsgr](https://discordapp.com/users/754143129824788499)
+- Discord: [@ovvh](https://discordapp.com/users/754143129824788499)
 
 
 # Ryan Gosling By Day, Batman By Night
