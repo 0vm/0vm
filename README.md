@@ -1,4 +1,4 @@
-I can't reply to any repos, DM me on discord below
+I am busy as I am completing HSC, DM my discord below.
 
 <a href="https://www.youtube.com/watch?v=k-3Cppde1pU&ab_channel=Hanato">
   <img src="https://media.discordapp.net/attachments/1131451161837326487/1134471176270389278/IMG_9825.png" alt="a man has fallen in lego city" style="width: 100%;">
