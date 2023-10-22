@@ -12,8 +12,6 @@ I am busy as I am completing HSC, DM my discord below.
 
 ## About Me
 
-I'm literally Ryan Gosling.
-
 | C# | C++ | Python | PHP | SQL | GOLang |
 
 *I drive.* 🚗💨
