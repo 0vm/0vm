@@ -11,7 +11,7 @@
 
 ## About Me
 
-| C# | C++ | Python | PHP | SQL | GOLang |
+| C# | Python | C++ | SQL | GOLang | NodeJS |
 
 *I drive.* 🚗💨
 
