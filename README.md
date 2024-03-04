@@ -1,6 +1,7 @@
 <a href="https://www.youtube.com/watch?v=k-3Cppde1pU&ab_channel=Hanato">
-  <img src="https://media.discordapp.net/attachments/1131451161837326487/1134471176270389278/IMG_9825.png" alt="a man has fallen in lego city" style="width: 100%;">
+  <img src="https://github.com/0vm/0vm/assets/79897291/1d00efde-8b62-41ec-87fd-c307bc0cbbea" alt="a man has fallen in lego city" style="width: 100%;">
 </a>
+
 
 
 # 👋 Hey there! I'm 0vm!
@@ -38,7 +39,7 @@ int main() {
 ```
 
 <a href="https://www.programiz.com/cpp-programming/online-compiler/">
-  <img src="https://media.discordapp.net/attachments/909084785153048627/1134095728097108020/image.png" alt="A Cupcake from my factory" style="width: 100%; height: 120px;">
+  <img src="https://media1.tenor.com/m/-wsFw-3vb0oAAAAC/edpcupcake-cupcake.gif" alt="A Cupcake from my factory" style="width: 100%; height: 120px;">
 </a>
 
 ## GitHub Stats
