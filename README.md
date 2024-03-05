@@ -6,7 +6,7 @@
 
 # 👋 Hey there! I'm 0vm!
 
-[![Im actually ken not 0vm](https://cdn.discordapp.com/attachments/1131513718363127919/1134424542027206656/ezgif.com-optimize.gif)](https://youtu.be/ruawVE5GwM8)
+[![Im actually ken not 0vm](https://github.com/0vm/0vm/assets/79897291/9f14f240-0159-4e52-b453-481139fc5bc7)](https://youtu.be/ruawVE5GwM8)
 [![Im actually ken not 0vm](https://64.media.tumblr.com/01fb98bd843b81ce68c7f5d357e1d6c6/tumblr_n83qrsQ2iC1rhhdfvo1_250.gif)](https://youtu.be/B66y995acNs)
 
 ## About Me
