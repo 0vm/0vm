@@ -61,12 +61,6 @@ Views
 </a>
 
 
-## Add the cord
-- Discord: [@vovh](https://discordapp.com/users/1002550593887416381)
-[![Im actually ken not 0vm](https://64.media.tumblr.com/01fb98bd843b81ce68c7f5d357e1d6c6/tumblr_n83qrsQ2iC1rhhdfvo1_250.gif)](https://youtu.be/B66y995acNs)
-
-
-
 # Ryan Gosling By Day, Batman By Night
 
 [![Im actually ken not 0vm](https://github-production-user-asset-6210df.s3.amazonaws.com/79897291/258580047-745cf172-98d5-426a-a306-59f337c1a626.gif)](https://youtu.be/54P0GQEM4w8)
