@@ -1,5 +1,7 @@
 ### I have finally released [NetDeflect (real-time DDoS detection and mitigation tool)](https://github.com/0vm/NetDeflect), it's available [here](https://github.com/0vm/NetDeflect) or find it pinned on my profile!
 
+(if you star it, I'll personally thank you if you open an issue here :D)
+
 <a href="https://www.youtube.com/watch?v=k-3Cppde1pU&ab_channel=Hanato">
   <img src="https://github.com/0vm/0vm/assets/79897291/1d00efde-8b62-41ec-87fd-c307bc0cbbea" alt="a man has fallen in lego city" style="width: 100%;">
 </a>
