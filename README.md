@@ -16,7 +16,7 @@ https://github.com/0vm/NetDeflect
 
 ## About Me
 
-| C# | Python | C++ | SQL | GOLang | NodeJS |
+| C# | Python | C++ | GOLang | NodeJS |
 
 *I drive.* 🚗💨
 
