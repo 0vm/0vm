@@ -1,4 +1,4 @@
-### I have finally released [NetDeflect (real-time DDoS detection and mitigation tool)](https://github.com/0vm/NetDeflect), it's available [here](https://github.com/0vm/NetDeflect) or find it pinned on my profile!
+### I have released [NetDeflect (real-time DDoS detection and mitigation tool)](https://github.com/0vm/NetDeflect), it's available [here](https://github.com/0vm/NetDeflect) or find it pinned on my profile!
 https://github.com/0vm/NetDeflect
 
 (if you star it, I'll personally thank you if you open an issue here :D)
