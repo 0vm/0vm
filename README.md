@@ -77,12 +77,10 @@ Views
 
 
 # IMPORTANT
-all the images link to something, check them out!
-
-I'm a native english speaker, but sometimes my brain no brain
+All the images link to something, check them out!
 
 laughter is the best medicine so hopefully you got a laugh out of my readme
 
 ## Check out my contribution graph in 1970.
 
-[source available here](https://github.com/0vm/commit-graph-spoof)
+[Source available here](https://github.com/0vm/commit-graph-spoof)
