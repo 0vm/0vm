@@ -58,7 +58,7 @@ int main() {
 # IMPORTANT
 All the images link to something. Click them. You won’t regret it. Probably.
 
-**Laughter is the best medicine**, so hopefully you got a chuckle out of this README.
+**Laughter is the best medicine**, so hopefully you got a giggle out of my README.
 
 ## Check out my contribution graph in 1970
 
