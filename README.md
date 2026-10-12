@@ -1,8 +1,13 @@
-<p align="center">
-  <strong>I've released <a href="https://github.com/0vm/NetDeflect">NetDeflect</a>!</strong>
-  <br>
-  Real-time DDoS detection and mitigation. Check it out below or find it pinned!
-</p>
+# 🚀 I've released [NetDeflect](https://github.com/0vm/NetDeflect) V4! Check it out!
+
+I've released **NetDeflect** - a real-time DDoS detection and mitigation tool built for Linux. 🐧
+
+Works across almost all Linux systems - give it a look, check out the source and **drop a ⭐ if you like what you see!**
+
+👉 **[Check it out here - you WILL find it useful](https://github.com/0vm/NetDeflect)** or find it pinned below!
+
+
+
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=k-3Cppde1pU&ab_channel=Hanato">
