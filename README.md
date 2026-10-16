@@ -45,12 +45,14 @@ Here to build useful things and trying to keep the commit history somewhat expla
 
 | Project | Description |
 | :--- | :--- |
-| [NetDeflect](https://github.com/0vm/NetDeflect) | Real-time DDoS detection, traffic analysis and mitigation. |
-| [RAM-Limiter](https://github.com/0vm/RAM-Limiter) | Limits RAM usage for Discord, Chrome, OBS and any other applications. |
-| [BasicC2](https://github.com/0vm/BasicC2) | A basic Python command-and-control (C2) implementation for Windows and Linux. |
+| [NetDeflect](https://github.com/0vm/NetDeflect) | Open-source DDoS mitigation for Linux: nftables/XDP drops, 110 attack signatures, auto-learning, sFlow/NetFlow and BGP up to 100G, game and VPN aware, with Discord alerts. |
+| [RAM-Limiter](https://github.com/0vm/RAM-Limiter) | Limits RAM usage for Discord, Chrome, OBS and any other application in one click. |
+| [Simple-HWID-Checker](https://github.com/0vm/Simple-HWID-Checker) | Hardware identification tool that fingerprints your CPU, motherboard, disks, GPU, monitors, network adapters, BIOS, TPM and RAM via direct hardware access. |
+| [Commit-Graph-Spoof](https://github.com/0vm/Commit-Graph-Spoof) | Modify your contribution graph to show dates starting from 1970 on your profile. |
+| [BasicC2](https://github.com/0vm/BasicC2) | A basic no-login command-and-control written in Python, works on Windows and Linux, with XOR encryption. |
 | [Pinger](https://github.com/0vm/Pinger) | A high-performance IP and URL pinger with IPv6 support and logging. |
-| [Simple-HWID-Checker](https://github.com/0vm/Simple-HWID-Checker) | Hardware level identification and fingerprinting utility for software. |
-| [Commit-Graph-Spoof](https://github.com/0vm/Commit-Graph-Spoof) | Because apparently even old contribution graphs matter more than projects? |
+| [twitch-username-checker](https://github.com/0vm/twitch-username-checker) | Finds available 4-letter Twitch usernames using Puppeteer and Node.js. |
+| [Plex Subtitles For Jellyfin](https://github.com/0vm/Plex-Subtitles-Jellyfin) | Plex-style live subtitle controls for the Jellyfin web player: change size, colour, position, style and offset from the CC button. |
 
 More projects, experiments, and questionable engineering decisions can be found in my repositories.
 
